@@ -1,0 +1,13 @@
+header {
+  font-family: 'Homemade Apple', cursive;
+  font-size: 12vh;
+  color: rgb(41, 44, 56);
+  background-color: rgb(176, 211, 216);
+  padding: 1vh;
+}
+
+.titles {
+  font-family: 'Homemade Apple', cursive;
+  font-size: 5vh;
+  color: rgb(7, 19, 66);
+}
