@@ -10,4 +10,13 @@ header {
   font-family: 'Homemade Apple', cursive;
   font-size: 5vh;
   color: rgb(7, 19, 66);
+  padding: 1vh;
+}
+
+.spell-list {
+  font-family: 'Arima Madurai', cursive;
+}
+
+.list-wand {
+  height: 2vh;
 }
